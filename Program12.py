@@ -1,21 +1,9 @@
 #***************************************************************
 #
 #  Developer:         Renee White
-#
-#  Program #:         Program 12
-#
 #  File Name:         Program12.py
-#
-#  Course:            COSC 1336 Programming Fundamentals I 
-#
-#  Due Date:          12-12-19
-#
-#  Instructor:        Fred Kumi 
-#
-#  Chapter:           Chapter #'s 5-10
-#
-#  Description: This program computes the weekly gross pay of employees
-#
+#  Description:       This program computes the weekly gross pay of employees
+#  
 #***************************************************************
 
 
@@ -197,7 +185,6 @@ def main():
 #**************************************************************
 def developerInfo():
     print('Name:     Renee White')
-    print('Course:   Programming Fundamentals I')
     print('Program:  Twelve')
     print()
     # End of the developerInfo function
